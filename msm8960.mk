@@ -57,6 +57,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     GalaxyS3Settings \
     SamsungServiceMode
+	
+# Filesystem management tools
+PRODUCT_PACKAGES += \
+    e2fsck
 
 # Misc
 PRODUCT_PACKAGES += \
