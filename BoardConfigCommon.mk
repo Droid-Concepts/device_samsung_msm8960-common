@@ -101,3 +101,6 @@ TARGET_QCOM_MEDIA_VARIANT := caf
 
 # Use retire fence from MDP driver
 TARGET_DISPLAY_USE_RETIRE_FENCE := true
+
+# Fix Netflix
+TARGET_NO_ADAPTIVE_PLAYBACK := true
