@@ -42,9 +42,6 @@ TARGET_KRAIT_BIONIC_PLDTHRESH := 10
 TARGET_KRAIT_BIONIC_BBTHRESH := 64
 TARGET_KRAIT_BIONIC_PLDSIZE := 64
 
-# Adreno configuration
-BOARD_EGL_CFG := device/samsung/msm8960-common/configs/egl.cfg
-
 # Wifi related defines
 WIFI_BAND := 802_11_ABG
 WPA_SUPPLICANT_VERSION := VER_0_8_X
